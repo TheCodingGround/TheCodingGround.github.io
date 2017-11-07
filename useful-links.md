@@ -2,12 +2,12 @@
 
 ## Typing Practice
 
-1. [For code typing practice](Typing.io)
-1. [General typing practice](typingclub.com)
-1. [To practice your typing](typeracer.com)
+1. [For code typing practice](http://Typing.io)
+1. [General typing practice](http://typingclub.com)
+1. [To practice your typing](http://typeracer.com)
 
 
 ## Katas:
 
-1. [Online code katas - Code Wars](codewars.com)
-1. [Offline with online submission katas - Exercism.io](Exercism.io)
+1. [Online code katas - Code Wars](http://codewars.com)
+1. [Offline with online submission katas - Exercism.io](http://Exercism.io)
