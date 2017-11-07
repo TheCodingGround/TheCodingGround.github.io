@@ -2,8 +2,8 @@
 
 ## Typing Practice
 
-1. [Typing.io](For coding typing practice)
-1. [typingclub.com](General typing practice)
-1. [typeracer.com](To practice your typing )
+1. [For code typing practice](Typing.io)
+1. [General typing practice](typingclub.com)
+1. [To practice your typing](typeracer.com)
 
 
