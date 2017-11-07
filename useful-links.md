@@ -10,4 +10,4 @@
 ## Katas:
 
 1. [Online code katas - Code Wars](codewars.com)
-1. [Offline with online submission katas - Exercism.io]](Exercism.io)
+1. [Offline with online submission katas - Exercism.io](Exercism.io)
